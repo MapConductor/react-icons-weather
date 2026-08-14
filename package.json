@@ -1,0 +1,17 @@
+{
+  "name": "@mapconductor/react-icons-weather",
+  "version": "0.1.0",
+  "description": "Weather map glyphs for MapConductor",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "exports": { ".": { "types": "./dist/index.d.ts", "import": "./dist/index.mjs", "require": "./dist/index.js" } },
+  "files": ["dist"],
+  "scripts": {
+    "build": "tsup src/index.ts --format cjs,esm --dts",
+    "test": "npm run build && node --test test/*.test.cjs"
+  },
+  "license": "Apache-2.0",
+  "dependencies": { "@mapconductor/react-icons": "file:../react-icons" },
+  "devDependencies": { "tsup": "^8.5.1", "typescript": "^5.9.3" }
+}
