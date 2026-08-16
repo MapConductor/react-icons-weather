@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img">
+  <title>Cloudy weather</title>
+  <rect x="0.5" y="0.5" width="31" height="31" rx="6" fill="#f8fafc" stroke="#cbd5e1"/>
+  <path d="M5 18 C2.8 18 1 16.2 1 14 C1 11.9 2.6 10.2 4.7 10 C5.5 6.5 8.3 5 12 5 C15.8 5 18.8 7.8 19.2 11.5 C21.4 12 23 13.8 23 16 C23 18.2 21.2 20 19 20 L5 20 Z" transform="translate(4 4)" fill="#0f172a"/>
+</svg>

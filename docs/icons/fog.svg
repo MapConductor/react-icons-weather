@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img">
+  <title>Fog</title>
+  <rect x="0.5" y="0.5" width="31" height="31" rx="6" fill="#f8fafc" stroke="#cbd5e1"/>
+  <path d="M4 5 L20 5 L20 8 L4 8 Z M1 10 L17 10 L17 13 L1 13 Z M7 15 L23 15 L23 18 L7 18 Z M3 20 L19 20 L19 23 L3 23 Z" transform="translate(4 4)" fill="#0f172a"/>
+</svg>

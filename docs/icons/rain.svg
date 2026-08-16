@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img">
+  <title>Rain</title>
+  <rect x="0.5" y="0.5" width="31" height="31" rx="6" fill="#f8fafc" stroke="#cbd5e1"/>
+  <path d="M5 14 C2.8 14 1 12.2 1 10 C1 7.9 2.6 6.2 4.7 6 C5.5 2.5 8.3 1 12 1 C15.8 1 18.8 3.8 19.2 7.5 C21.4 8 23 9.8 23 12 C23 14.2 21.2 16 19 16 L5 16 Z M5 18 L8 18 L6 23 L3 23 Z M11 18 L14 18 L12 23 L9 23 Z M17 18 L20 18 L18 23 L15 23 Z" transform="translate(4 4)" fill="#0f172a"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img">
+  <title>Wind</title>
+  <rect x="0.5" y="0.5" width="31" height="31" rx="6" fill="#f8fafc" stroke="#cbd5e1"/>
+  <path d="M2 6 C7 6 8 3 12 3 C15 3 17 5 17 7 C17 10 14 11 11 11 L2 11 L2 8 L11 8 C13 8 14 8 14 7 C14 6 13 6 12 6 C9 6 8 9 2 9 Z M2 14 L17 14 C20 14 22 16 22 18 C22 21 19 22 16 22 L13 22 L13 19 L16 19 C18 19 19 19 19 18 C19 17 18 17 17 17 L2 17 Z" transform="translate(4 4)" fill="#0f172a"/>
+</svg>
